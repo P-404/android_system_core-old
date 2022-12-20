@@ -601,4 +601,3 @@ bool Modprobe::GetAllDependencies(const std::string& module,
     }
     return true;
 }
-
